@@ -1,0 +1,102 @@
+Employer,Title,Company,Email,Website,Location,Experience,Skills,Salary,Type
+Abhi Tyagi,Data Science / Data Analyst,CreateMax IT Services ,createmax@info.com,www.createmaxitservices.com,Gandhinagar,3,Python,$50000,Full-Time
+Jacob Shaw,Machine Learning / AI Engineer,QuantumNet Networks,quantumnet@outlook.com,www.quantumnetnetworks.com,San Francisco,8,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$130,000",Contract
+James King,Data Science / Data Analyst,NexaCode Solutions,nexacode@info.com,www.nexacodesolutions.com,New York,12,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$50,000",Internship
+Jeffery Buck,Full-Stack Developer,NovaForge Analytics,novaforge@techmail.com,www.novaforgeanalytics.com,Sydney,20,Java,"$90,000",Full-Time
+Timothy Johnson,Full-Stack Developer,DataCore Dynamics,datacore@outlook.com,www.datacoredynamics.com,Sydney,9,Python,"$110,000",Full-Time
+Christina Price,Machine Learning / AI Engineer,SecureLogic Solutions,securelogic@company.com,www.securelogicsolutions.com,San Francisco,18,Python,"$90,000",Part-Time
+Savannah Gutierrez,Data Science / Data Analyst,ApexCode Group,apexcode@techmail.com,www.apexcodegroup.com,Tokyo,4,Python,"$50,000",Part-Time
+Nathan Schwartz,Web Development (Frontend),ApexForge Systems,apexforge@yahoo.com,www.apexforgesystems.com,London,18,JavaScript(React.js/Angular/Node.js),"$150,000",Part-Time
+John Clark,Full-Stack Developer,CloudNet Labs,cloudnet@info.com,www.cloudnetlabs.com,Tokyo,16,JavaScript(React.js/Angular/Node.js),"$90,000",Contract
+Stephen Levine,Web Development (Frontend),SecureForge Labs,secureforge@techmail.com,www.secureforgelabs.com,Tokyo,14,HTML/CSS,"$110,000",Contract
+Kimberly Cochran,Web Development (Frontend),StellarPulse Analytics,stellarpulse@info.com,www.stellarpulseanalytics.com,London,4,UI/UX(Figma)/Designing,"$130,000",Full-Time
+Kenneth White,UI/UX Designer,QuantumByte Systems,quantumbyte@outlook.com,www.quantumbytesystems.com,London,16,UI/UX(Figma)/Designing,"$50,000",Part-Time
+Jeffrey Bryant,Web Development (Backend),ApexTech Inc,apextech@company.com,www.apextechinc.com,New York,1,MySQL/NoSQL/SQLite/Node.js,"$130,000",Contract
+Michelle Walters,Full-Stack Developer,DataCode Inc,datacode@info.com,www.datacodeinc.com,San Francisco,13,MySQL/NoSQL/SQLite/Node.js,"$50,000",Part-Time
+Timothy Fisher,Database Management,InnoPulse Labs,innopulse@techmail.com,www.innopulselabs.com,New York,18,MySQL/NoSQL/SQLite/Node.js,"$50,000",Internship
+Devon Wilson,Data Science / Data Analyst,CloudTech Solutions,cloudtech@gmail.com,www.cloudtechsolutions.com,Berlin,6,Data Visualization(Pandas & NumPy)/Statistics,"$150,000",Contract
+Terry Bowers,Machine Learning / AI Engineer,ApexTech Labs,apextech@info.com,www.apextechlabs.com,Berlin,8,Data Visualization(Pandas & NumPy)/Statistics,"$110,000",Full-Time
+Christopher Edwards,Business Analyst,InnoForge Group,innoforge@company.com,www.innoforgegroup.com,Tokyo,11,Data Analysis/ Business Intelligence,"$50,000",Contract
+Ariel Thompson,Web Development (Frontend),CyberForge Networks,cyberforge@techmail.com,www.cyberforgenetworks.com,Bangalore,3,JavaScript(React.js/Angular/Node.js),"$130,000",Contract
+Karen Lee,Data Science / Data Analyst,SecureFusion Systems,securefusion@techmail.com,www.securefusionsystems.com,Bangalore,20,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$130,000",Part-Time
+Ashley Kelly,Full-Stack Developer,QuantumCode Labs,quantumcode@info.com,www.quantumcodelabs.com,Tokyo,11,JavaScript(React.js/Angular/Node.js),"$150,000",Full-Time
+Kyle Carter,Full-Stack Developer,ApexLogic Inc,apexlogic@gmail.com,www.apexlogicinc.com,New York,18,Java,"$50,000",Part-Time
+Sandra Gonzales,Web Development (Frontend),NexaLogic Labs,nexalogic@info.com,www.nexalogiclabs.com,Toronto,18,JavaScript(React.js/Angular/Node.js),"$110,000",Part-Time
+Mary Sanchez,Business Analyst,NexaPulse Technologies,nexapulse@gmail.com,www.nexapulsetechnologies.com,Berlin,14,Data Analysis/ Business Intelligence,"$90,000",Contract
+Elizabeth Wood,Web Development (Frontend),StellarForge Analytics,stellarforge@outlook.com,www.stellarforgeanalytics.com,Sydney,9,JavaScript(React.js/Angular/Node.js),"$50,000",Part-Time
+Joseph Calhoun,Web Development (Backend),StellarCore Inc,stellarcore@company.com,www.stellarcoreinc.com,London,6,MySQL/NoSQL/SQLite/Node.js,"$90,000",Full-Time
+Kevin Anderson,Full-Stack Developer,QuantumLogic Analytics,quantumlogic@gmail.com,www.quantumlogicanalytics.com,Tokyo,15,JavaScript(React.js/Angular/Node.js),"$150,000",Full-Time
+Rebekah West,Machine Learning / AI Engineer,NexaCore Solutions,nexacore@company.com,www.nexacoresolutions.com,New York,18,Data Visualization(Pandas & NumPy)/Statistics,"$50,000",Full-Time
+Tiffany Jensen,Data Science / Data Analyst,CloudLogic Labs,cloudlogic@techmail.com,www.cloudlogiclabs.com,Bangalore,1,Python,"$90,000",Full-Time
+Scott Smith,Business Analyst,DataNet Inc,datanet@techmail.com,www.datanetinc.com,Toronto,9,Data Analysis/ Business Intelligence,"$110,000",Internship
+Tiffany Turner,Data Science / Data Analyst,InnoForge Systems,innoforge@gmail.com,www.innoforgesystems.com,Berlin,11,Data Visualization(Pandas & NumPy)/Statistics,"$90,000",Part-Time
+William Perry,Web Development (Frontend),NexaPulse Dynamics,nexapulse@outlook.com,www.nexapulsedynamics.com,Toronto,9,HTML/CSS,"$130,000",Contract
+Sandra Smith,Full-Stack Developer,StellarCode Dynamics,stellarcode@outlook.com,www.stellarcodedynamics.com,London,17,Java,"$70,000",Full-Time
+Stephanie Ayala,Web Development (Frontend),NexaSphere Inc,nexasphere@yahoo.com,www.nexasphereinc.com,Tokyo,15,JavaScript(React.js/Angular/Node.js),"$90,000",Contract
+Charles Calderon,Machine Learning / AI Engineer,QuantumForge Group,quantumforge@outlook.com,www.quantumforgegroup.com,Toronto,2,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$90,000",Full-Time
+Michelle Anderson,Machine Learning / AI Engineer,NovaCore Analytics,novacore@yahoo.com,www.novacoreanalytics.com,San Francisco,14,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$150,000",Full-Time
+Michael Owen,Machine Learning / AI Engineer,NovaLogic Group,novalogic@gmail.com,www.novalogicgroup.com,Tokyo,4,Python,"$130,000",Part-Time
+Wanda Hanson,Full-Stack Developer,NovaPulse Solutions,novapulse@yahoo.com,www.novapulsesolutions.com,London,2,Java,"$110,000",Contract
+Erik Boyd,Full-Stack Developer,ApexFusion Dynamics,apexfusion@techmail.com,www.apexfusiondynamics.com,London,15,MySQL/NoSQL/SQLite/Node.js,"$90,000",Internship
+Sherry Gay,Machine Learning / AI Engineer,NexaCore Innovations,nexacoreinnovations@company.com,www.nexacoreinnovations.com,Tokyo,4,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$150,000",Contract
+Victoria Little,Business Analyst,CyberByte Labs,cyberbyte@gmail.com,www.cyberbytelabs.com,Tokyo,19,Data Analysis/ Business Intelligence,"$50,000",Part-Time
+Antonio Berry,Database Management,SecureCore Labs,securecore@yahoo.com,www.securecorelabs.com,San Francisco,2,MySQL/NoSQL/SQLite/Node.js,"$150,000",Contract
+Jeremiah Oliver,Web Development (Frontend),DataFusion Innovations,datafusioninnovations@info.com,www.datafusioninnovations.com,Tokyo,0,HTML/CSS,"$110,000",Internship
+Kayla Martinez,Data Science / Data Analyst,SecureSphere Labs,securesphere@info.com,www.securespherelabs.com,Berlin,17,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$90,000",Full-Time
+Sean Williams,Data Science / Data Analyst,DataSphere Labs,datasphere@outlook.com,www.dataspherelabs.com,San Francisco,18,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$150,000",Contract
+Nicholas Barron,Business Analyst,NexaSphere Innovations,nexasphereinnovations@techmail.com,www.nexasphereinnovations.com,Sydney,8,Data Analysis/ Business Intelligence,"$110,000",Part-Time
+Ariel Clark,Full-Stack Developer,ApexForge Technologies,apexforge@outlook.com,www.apexforgetechnologies.com,San Francisco,16,Java,"$70,000",Contract
+Erin Barnett,Web Development (Backend),StellarCore Dynamics,stellarcore@info.com,www.stellarcoredynamics.com,Sydney,20,MySQL/NoSQL/SQLite/Node.js,"$70,000",Contract
+Timothy Rivera,Business Analyst,StellarSphere Networks,stellarsphere@techmail.com,www.stellarspherenetworks.com,Berlin,2,Data Analysis/ Business Intelligence,"$130,000",Internship
+Kyle Harris,Web Development (Backend),StellarSphere Systems,stellarsphere@info.com,www.stellarspheresystems.com,London,12,MySQL/NoSQL/SQLite/Node.js,"$110,000",Part-Time
+Kathy Torres PhD,Full-Stack Developer,NexaCode Networks,nexacode@outlook.com,www.nexacodenetworks.com,Berlin,18,JavaScript(React.js/Angular/Node.js),"$150,000",Internship
+Gary Parsons,Machine Learning / AI Engineer,StellarForge Systems,stellarforge@yahoo.com,www.stellarforgesystems.com,Berlin,13,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$150,000",Part-Time
+Bobby Brown,Full-Stack Developer,DataCore Solutions,datacore@company.com,www.datacoresolutions.com,Toronto,3,JavaScript(React.js/Angular/Node.js),"$130,000",Internship
+Diana Hernandez,Machine Learning / AI Engineer,InnoNet Networks,innonet@outlook.com,www.innonetnetworks.com,Bangalore,7,Data Visualization(Pandas & NumPy)/Statistics,"$90,000",Internship
+Danielle Herman,Business Analyst,QuantumForge Dynamics,quantumforge@company.com,www.quantumforgedynamics.com,Toronto,9,Data Analysis/ Business Intelligence,"$150,000",Internship
+Susan Dickerson,Machine Learning / AI Engineer,CyberCode Solutions,cybercode@yahoo.com,www.cybercodesolutions.com,Bangalore,8,Python,"$150,000",Contract
+Claudia Hickman,UI/UX Designer,NovaForge Dynamics,novaforge@info.com,www.novaforgedynamics.com,New York,3,UI/UX(Figma)/Designing,"$90,000",Part-Time
+Michael Brown MD,Full-Stack Developer,NovaPulse Systems,novapulse@info.com,www.novapulsesystems.com,Berlin,10,JavaScript(React.js/Angular/Node.js),"$90,000",Contract
+Noah Schneider,Machine Learning / AI Engineer,NexaCode Labs,nexacode@gmail.com,www.nexacodelabs.com,San Francisco,18,Data Visualization(Pandas & NumPy)/Statistics,"$70,000",Full-Time
+Rachel Hebert,Full-Stack Developer,NexaSphere Technologies,nexasphere@info.com,www.nexaspheretechnologies.com,Sydney,19,MySQL/NoSQL/SQLite/Node.js,"$90,000",Internship
+Becky Collins,Data Science / Data Analyst,NexaCode Technologies,nexacode@yahoo.com,www.nexacodetechnologies.com,New York,2,Python,"$130,000",Contract
+Joseph Spencer,Web Development (Frontend),InnoTech Innovations,innotechinnovations@info.com,www.innotechinnovations.com,London,14,HTML/CSS,"$50,000",Full-Time
+Dawn Gray,Full-Stack Developer,InnoByte Systems,innobyte@techmail.com,www.innobytesystems.com,Sydney,20,Java,"$110,000",Contract
+Brittany Horn,Full-Stack Developer,CloudCore Innovations,cloudcoreinnovations@outlook.com,www.cloudcoreinnovations.com,Sydney,19,Java,"$150,000",Full-Time
+Patricia Miller,Web Development (Frontend),InnoFusion Inc,innofusion@outlook.com,www.innofusioninc.com,Sydney,17,HTML/CSS,"$70,000",Contract
+Maria Williams,UI/UX Designer,InnoNet Inc,innonet@outlook.com,www.innonetinc.com,London,19,UI/UX(Figma)/Designing,"$130,000",Full-Time
+John Graves,Web Development (Frontend),InnoTech Group,innotech@yahoo.com,www.innotechgroup.com,Berlin,9,UI/UX(Figma)/Designing,"$50,000",Internship
+Peter Ramsey,Full-Stack Developer,NovaFusion Dynamics,novafusion@yahoo.com,www.novafusiondynamics.com,Tokyo,9,Java,"$150,000",Full-Time
+Timothy Underwood,Business Analyst,InnoCode Analytics,innocode@yahoo.com,www.innocodeanalytics.com,San Francisco,20,Data Analysis/ Business Intelligence,"$130,000",Internship
+Joshua Brown,Full-Stack Developer,CloudLogic Innovations,cloudlogicinnovations@outlook.com,www.cloudlogicinnovations.com,London,13,Java,"$70,000",Full-Time
+Christopher Russell,Data Science / Data Analyst,ApexNet Dynamics,apexnet@gmail.com,www.apexnetdynamics.com,Berlin,13,Python,"$110,000",Contract
+Benjamin Villarreal,Full-Stack Developer,ApexLogic Technologies,apexlogic@company.com,www.apexlogictechnologies.com,San Francisco,3,MySQL/NoSQL/SQLite/Node.js,"$70,000",Contract
+Aaron Wong,Web Development (Backend),DataLogic Technologies,datalogic@company.com,www.datalogictechnologies.com,Bangalore,4,MySQL/NoSQL/SQLite/Node.js,"$90,000",Contract
+Michael Woods,Data Science / Data Analyst,CyberTech Networks,cybertech@outlook.com,www.cybertechnetworks.com,New York,13,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$130,000",Full-Time
+Howard Nichols,Data Science / Data Analyst,InnoPulse Solutions,innopulse@yahoo.com,www.innopulsesolutions.com,Berlin,12,Python,"$130,000",Contract
+Alan Silva,UI/UX Designer,CyberLogic Inc,cyberlogic@gmail.com,www.cyberlogicinc.com,Sydney,8,UI/UX(Figma)/Designing,"$130,000",Internship
+Barbara Gallegos,Business Analyst,InnoForge Inc,innoforge@gmail.com,www.innoforgeinc.com,Toronto,9,Data Analysis/ Business Intelligence,"$50,000",Full-Time
+Travis Mckenzie,Web Development (Backend),NovaFusion Technologies,novafusion@company.com,www.novafusiontechnologies.com,Toronto,8,MySQL/NoSQL/SQLite/Node.js,"$90,000",Part-Time
+Joe Willis,Machine Learning / AI Engineer,DataByte Group,databyte@info.com,www.databytegroup.com,San Francisco,18,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$150,000",Full-Time
+Keith Larson,Full-Stack Developer,NexaCore Inc,nexacore@yahoo.com,www.nexacoreinc.com,San Francisco,15,JavaScript(React.js/Angular/Node.js),"$50,000",Full-Time
+Deanna Mckinney,Data Science / Data Analyst,ApexPulse Systems,apexpulse@info.com,www.apexpulsesystems.com,San Francisco,14,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$110,000",Part-Time
+Lisa Snyder,Machine Learning / AI Engineer,NovaLogic Analytics,novalogic@yahoo.com,www.novalogicanalytics.com,Berlin,9,Data Visualization(Pandas & NumPy)/Statistics,"$70,000",Part-Time
+Rhonda Perez,Business Analyst,CyberCore Technologies,cybercore@outlook.com,www.cybercoretechnologies.com,Tokyo,17,Data Analysis/ Business Intelligence,"$70,000",Internship
+Alexis King,Full-Stack Developer,NexaNet Analytics,nexanet@info.com,www.nexanetanalytics.com,Sydney,3,Java,"$150,000",Full-Time
+Charlotte Butler,Data Science / Data Analyst,CloudNet Solutions,cloudnet@outlook.com,www.cloudnetsolutions.com,Toronto,7,Python,"$110,000",Internship
+George Chandler,Full-Stack Developer,ApexCore Group,apexcore@gmail.com,www.apexcoregroup.com,Berlin,6,MySQL/NoSQL/SQLite/Node.js,"$70,000",Contract
+Marvin White,Web Development (Frontend),NexaByte Group,nexabyte@outlook.com,www.nexabytegroup.com,Bangalore,4,UI/UX(Figma)/Designing,"$150,000",Full-Time
+Susan Phillips,Business Analyst,CloudForge Networks,cloudforge@gmail.com,www.cloudforgenetworks.com,London,16,Data Analysis/ Business Intelligence,"$90,000",Internship
+Tyler Clark,Web Development (Frontend),CloudCore Inc,cloudcore@info.com,www.cloudcoreinc.com,San Francisco,15,HTML/CSS,"$150,000",Contract
+James Garcia,Web Development (Backend),NovaByte Analytics,novabyte@outlook.com,www.novabyteanalytics.com,San Francisco,12,MySQL/NoSQL/SQLite/Node.js,"$70,000",Contract
+Sarah West,Business Analyst,StellarByte Solutions,stellarbyte@techmail.com,www.stellarbytesolutions.com,New York,20,Data Analysis/ Business Intelligence,"$70,000",Part-Time
+Amanda York,Data Science / Data Analyst,NexaCore Group,nexacore@techmail.com,www.nexacoregroup.com,Tokyo,19,Python,"$50,000",Part-Time
+Michael Shannon,Database Management,DataPulse Group,datapulse@outlook.com,www.datapulsegroup.com,Bangalore,19,MySQL/NoSQL/SQLite/Node.js,"$50,000",Internship
+Jennifer Hoffman,Data Science / Data Analyst,CloudPulse Innovations,cloudpulseinnovations@yahoo.com,www.cloudpulseinnovations.com,Sydney,19,Data Visualization(Pandas & NumPy)/Statistics,"$70,000",Full-Time
+Richard Butler,UI/UX Designer,ApexCore Technologies,apexcore@company.com,www.apexcoretechnologies.com,Bangalore,13,UI/UX(Figma)/Designing,"$130,000",Full-Time
+Olivia Contreras,Full-Stack Developer,QuantumForge Analytics,quantumforge@info.com,www.quantumforgeanalytics.com,Tokyo,5,Java,"$70,000",Full-Time
+Jessica Contreras,Machine Learning / AI Engineer,QuantumCore Inc,quantumcore@techmail.com,www.quantumcoreinc.com,London,11,Data Visualization(Pandas & NumPy)/Statistics,"$70,000",Full-Time
+Justin Gardner,Machine Learning / AI Engineer,QuantumPulse Innovations,quantumpulseinnovations@techmail.com,www.quantumpulseinnovations.com,Sydney,3,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$50,000",Internship
+Ryan King,Web Development (Frontend),NovaByte Dynamics,novabyte@techmail.com,www.novabytedynamics.com,Sydney,18,UI/UX(Figma)/Designing,"$130,000",Part-Time
+Deborah Benjamin,Web Development (Frontend),QuantumForge Inc,quantumforge@outlook.com,www.quantumforgeinc.com,Toronto,16,HTML/CSS,"$110,000",Full-Time
+Marissa Kerr,Full-Stack Developer,InnoCode Solutions,innocode@outlook.com,www.innocodesolutions.com,Tokyo,4,AI-ML Algorithms/Data Processing/NLP/Deep Learning,"$140,000",Full-Time
