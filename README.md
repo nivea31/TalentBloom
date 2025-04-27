@@ -17,10 +17,10 @@ We are developing a AI-Driven Resume and Job Matching System name as TalentBloom
 
 # Key features include
 
-- "Intelligent parsing and skill extraction from candidate profiles"
-- "Role matching based on skill alignment, proficiency, and domain relevance"
-- "Data-driven optimization for faster and more efficient hiring"
-- "Scalable design for integration into enterprise recruitment platforms"
+- Intelligent parsing and skill extraction from candidate profiles
+- Role matching based on skill alignment, proficiency, and domain relevance
+- Data-driven optimization for faster and more efficient hiring
+- Scalable design for integration into enterprise recruitment platforms
 
 ---
 
